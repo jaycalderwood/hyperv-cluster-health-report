@@ -1,0 +1,15 @@
+# Build artifacts
+*.zip
+*.log
+*.bak
+
+# Reports
+reports/
+*.xlsx
+*.html
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
